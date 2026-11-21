@@ -50,3 +50,12 @@ Your Safety, Our Priority
  ⚠️ Disclaimer
 
 This project was developed as a hackathon demonstration using sample data for Darbhanga, Bihar. Flood alerts, shelter availability, and route information are not verified live emergency information. This platform should not be used as a substitute for official emergency services.
+
+
+
+
+
+<img width="1890" height="930" alt="image" src="https://github.com/user-attachments/assets/ea5d6463-e584-4557-b5d3-f086905e8139" />
+
+<img width="1895" height="934" alt="image" src="https://github.com/user-attachments/assets/133fb1b3-e446-4419-982d-b393350c4998" />
+
